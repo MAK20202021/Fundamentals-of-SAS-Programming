@@ -9,8 +9,7 @@ Thanks to Coursera and SAS for arranging these exercises to strengthen our knowl
 This project needs SAS OnDemand for Academics.
 
 ## File Description
-The source codes and Data files are as follows:
-- example_where_sort.sas
-- np_species.sas7bdat
+The source codes and Data files are related to different types of Data Analysis through SAS Programming.
+
 ## Discussion
 After completing thess exercises, I understand how we can do data analysis through SAS Programming.
